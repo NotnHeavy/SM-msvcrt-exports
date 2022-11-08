@@ -1,0 +1,14 @@
+"Games"
+{
+    "tf"
+    {
+        "Signatures"
+        {
+			"ImageBase"
+			{
+				"library" "server"
+				"windows" "\x4D\x5A" // MZ header
+			}
+        }
+    }
+}
